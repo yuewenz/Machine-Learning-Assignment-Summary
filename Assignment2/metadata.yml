@@ -1,0 +1,12 @@
+---
+:id: 68772187
+:submitters:
+- :name: Winnie Zheng
+  :email: yuewenz@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-03-08 21:05:02.916858000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-03-08 13:05:02.916858000 Z
+:status: processed
+:score: 100.0
